@@ -10,3 +10,4 @@
 # B반
 ### 2217110212
 ##### 이경명
+lkmsungsan@naver.com
