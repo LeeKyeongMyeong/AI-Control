@@ -5,7 +5,7 @@
 -------------
 
 
-![image](https://user-images.githubusercontent.com/111823019/196038688-d959fab0-df6d-4c17-b7f7-c572b58596e5.png)
+
 
 
 
@@ -18,6 +18,6 @@
 lkmsungsan@naver.com
 
 
-[Naver](https://naver.com, "naver link")
+[Naver](https://www.naver.com, "naver link")
 
 <img src="https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=footer&text=MARK%20DOWN&fontSize=90" />
