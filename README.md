@@ -19,5 +19,8 @@ lkmsungsan@naver.com
 
 
 [Naver](https://naver.com, "naver link")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKyeongMyeong)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=footer&text=MARK%20DOWN&fontSize=90" />
