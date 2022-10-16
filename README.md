@@ -1,4 +1,4 @@
-# AI-Control
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=창원%20폴리텍&fontSize=90" />
 
 ###내가 만든 첫 마크다운 파일입니다.
 
@@ -15,4 +15,4 @@ lkmsungsan@naver.com
 
 
 [Naver](https://naver.com, "naver link")
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
