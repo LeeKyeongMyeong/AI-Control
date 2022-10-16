@@ -18,6 +18,6 @@
 lkmsungsan@naver.com
 
 
-[Naver](https://www.naver.com,"naver link")
+[Naver](https://www.naver.com, "naver link")
 
 <img src="https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=footer&text=MARK%20DOWN&fontSize=90" />
