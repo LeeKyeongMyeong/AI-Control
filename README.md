@@ -15,5 +15,4 @@ lkmsungsan@naver.com
 
 
 [Naver](https://naver.com, "naver link")
-<img src="https://img.shields.io/badge/JAVA-007396?
-          style=flat&logo=Java&logoColor=white"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
