@@ -8,7 +8,7 @@
 
 
 
-스마트팩토리학과![image](https://user-images.githubusercontent.com/111823019/194746549-112c8c12-4da3-44a5-b65a-1974b0aed5a9.png)
+![image](https://user-images.githubusercontent.com/111823019/194746549-112c8c12-4da3-44a5-b65a-1974b0aed5a9.png)
 
 -------------
 + # B반
