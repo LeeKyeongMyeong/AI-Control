@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=창원%20폴리텍&fontSize=90" />
-<img src="https://img.shields.io/badge/스마트팩토리학과-007396?
-          style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/SmartFactory-007396 style=flat&logo=Java&logoColor=white"/>
 
 -------------
 
