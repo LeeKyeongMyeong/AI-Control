@@ -19,7 +19,7 @@ lkmsungsan@naver.com
 
 
 [Naver](https://naver.com, "naver link")
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKyeongMyeong)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
