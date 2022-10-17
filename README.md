@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KyeongMyeong%20Lee&fontSize=90" />
 학과<img src="https://img.shields.io/badge/SmartFactory-007396 style=flat&logo=Java&logoColor=white"/> 
 AI제어실습<img src="https://img.shields.io/badge/선형동교수님-3776AB style=social&logo=Python&logoColor=black"/>
+
+
 + # B반
 - ### 2217110212
 -------------
